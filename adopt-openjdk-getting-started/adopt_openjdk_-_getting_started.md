@@ -1,4 +1,4 @@
-# Adopt OpenJDK - Getting started
+# Adopt OpenJDK - Getting started.
 
  * [What is OpenJDK ?](what_is_openjdk.md)
    * [About OCA - signing the OCA](about_oca_-_signing_the_oca.md)
